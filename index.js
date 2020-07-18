@@ -1,6 +1,6 @@
 var btn = document.getElementById('submit');
 btn.style.background ="#1234abc"
-document.write('<h1>Hello World</h1>')
+//document.write('<h1>Hello World</h1>')
 function check(){
     var email = document.getElementById('email').value;
     var password = document.getElementById('password').value;
